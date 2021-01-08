@@ -1,5 +1,5 @@
-### Hi there 👋
-Hello!
+### Hi, my name is Dmitriy.
+I'm a Software Engineer with a focus on Front-End development
 <!--
 **PopovDmitriy/PopovDmitriy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
